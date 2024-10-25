@@ -114,8 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - 📚 Tesseract-OCR community
-- 🛡️ Python developers
-- 👥 Open source contributors
+- 👥 DigiFoe Community, who helped me to test it in the group session
 
 ## ⚠️ Disclaimer
 
